@@ -7,6 +7,8 @@ start "" https://www.google.com/
 
 start "" https://github.com/
 
-strat "" https://medium.com/
+start "" https://medium.com/
 
 start "" https://www.zerohedge.com/
+
+start "" https://www.accuweather.com/
