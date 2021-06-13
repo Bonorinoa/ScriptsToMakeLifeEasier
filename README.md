@@ -6,6 +6,7 @@ Please let me know if there are any common tasks you would like me to develop a 
 ## Future programs to implement
 
 * Weather check
+* Openiong specific websites automatically
 * Guide to automate login in to a specific site (i.e. your college learning system)
 * Navigating through your directory
 * Get daily stock data 
